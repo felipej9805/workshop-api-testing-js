@@ -1,0 +1,28 @@
+{
+  "name": "workshop-api-testing-js",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Api Testint in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipej9805/workshop-api-testing-js.git"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "Felipe Jurado Murillo <felipejm9805@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipej9805/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/felipej9805/workshop-api-testing-js#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
